@@ -1,0 +1,919 @@
+[2022-11-22 15:11:32,442: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:11:32,456: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:11:33,478: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:11:33,489: INFO/MainProcess] celery@b2642aa1ab00 ready.
+[2022-11-22 15:12:22,887: INFO/MainProcess] Received task: tasks.run[989a0d3b-ff9f-4e31-8bdb-5b05515336c4]  
+[2022-11-22 15:12:32,899: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-22 15:12:32,901: INFO/ForkPoolWorker-1] Task tasks.run[989a0d3b-ff9f-4e31-8bdb-5b05515336c4] succeeded in 10.01295570000002s: 'おわったよ'
+[2022-11-22 15:12:32,904: INFO/MainProcess] Received task: tasks.calc[3d4a4491-a8c9-4e00-ab4b-0178aa32d964]  
+[2022-11-22 15:12:32,909: INFO/ForkPoolWorker-1] Task tasks.calc[3d4a4491-a8c9-4e00-ab4b-0178aa32d964] succeeded in 0.0006317000006674789s: 300
+[2022-11-22 15:15:44,686: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:15:44,698: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:15:45,721: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:15:45,735: INFO/MainProcess] celery@3cf11c2d696d ready.
+[2022-11-22 15:15:49,486: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-22 15:16:18,175: INFO/MainProcess] Received task: tasks.run[abbb876e-b532-4337-aa9a-134fe57be8d4]  
+[2022-11-22 15:16:28,188: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-22 15:16:28,191: INFO/ForkPoolWorker-1] Task tasks.run[abbb876e-b532-4337-aa9a-134fe57be8d4] succeeded in 10.012750099999721s: 'おわったよ'
+[2022-11-22 15:16:28,193: INFO/MainProcess] Received task: tasks.calc[a0c59c66-e518-4cef-b79b-16db1b73382e]  
+[2022-11-22 15:16:28,196: INFO/ForkPoolWorker-1] Task tasks.calc[a0c59c66-e518-4cef-b79b-16db1b73382e] succeeded in 0.0006199999997988925s: 300
+[2022-11-22 15:25:54,402: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:25:54,416: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:25:55,438: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:25:55,449: INFO/MainProcess] celery@2531c4f76c69 ready.
+[2022-11-22 15:27:05,942: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:27:05,954: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:27:06,977: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:27:06,990: INFO/MainProcess] celery@aead5bcead28 ready.
+[2022-11-22 15:33:54,943: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:33:54,954: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:33:55,977: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:33:55,990: INFO/MainProcess] celery@1544b22bab74 ready.
+[2022-11-22 15:36:58,580: INFO/MainProcess] Received task: tasks.run[056ab9de-dc9a-41de-a58e-8a5dc6c66400]  
+[2022-11-22 15:37:08,592: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-22 15:37:08,594: INFO/ForkPoolWorker-1] Task tasks.run[056ab9de-dc9a-41de-a58e-8a5dc6c66400] succeeded in 10.01276069999949s: 'おわったよ'
+[2022-11-22 15:37:08,597: INFO/MainProcess] Received task: tasks.calc[162b2182-e710-4eb6-bd4d-ef0a350374ec]  
+[2022-11-22 15:37:08,599: INFO/ForkPoolWorker-1] Task tasks.calc[162b2182-e710-4eb6-bd4d-ef0a350374ec] succeeded in 0.0007391999997707899s: 300
+[2022-11-22 15:40:18,869: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-22 15:40:18,881: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-22 15:40:19,905: INFO/MainProcess] mingle: all alone
+[2022-11-22 15:40:19,918: INFO/MainProcess] celery@ef7cb7c08357 ready.
+[2022-11-22 15:40:23,666: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 07:51:28,730: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 07:51:28,742: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 07:51:29,765: INFO/MainProcess] mingle: all alone
+[2022-11-23 07:51:29,778: INFO/MainProcess] celery@89cb2cebf02e ready.
+[2022-11-23 07:58:17,132: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,133: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,134: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,134: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,134: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,134: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,134: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 07:58:17,135: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 07:58:17,174: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 07:58:17,183: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 07:58:18,207: INFO/MainProcess] mingle: all alone
+[2022-11-23 07:58:18,222: INFO/MainProcess] celery@09b7a3c50f19 ready.
+[2022-11-23 08:06:05,065: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,066: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,066: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,066: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,066: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,067: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,067: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:06:05,067: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 08:06:05,110: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 08:06:05,119: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 08:06:06,145: INFO/MainProcess] mingle: all alone
+[2022-11-23 08:06:06,161: INFO/MainProcess] celery@b533c522f896 ready.
+[2022-11-23 08:09:05,494: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,496: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,496: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,496: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,496: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,496: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,497: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:09:05,497: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 08:09:05,670: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 08:09:05,681: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 08:09:06,705: INFO/MainProcess] mingle: all alone
+[2022-11-23 08:09:06,718: INFO/MainProcess] celery@979af4ed5775 ready.
+[2022-11-23 08:11:01,454: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 08:12:00,106: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,107: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,107: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,107: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,107: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,108: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,108: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:12:00,108: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 08:12:00,155: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 08:12:00,165: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 08:12:01,192: INFO/MainProcess] mingle: all alone
+[2022-11-23 08:12:01,207: INFO/MainProcess] celery@4dec77565dba ready.
+[2022-11-23 08:12:05,041: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 08:12:25,150: INFO/MainProcess] Task tasks.run[36a825a0-630c-48fc-9efd-aef1db012310] received
+[2022-11-23 08:12:35,162: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-23 08:12:35,163: WARNING/ForkPoolWorker-1] 
+
+[2022-11-23 08:12:35,166: INFO/ForkPoolWorker-1] Task tasks.run[36a825a0-630c-48fc-9efd-aef1db012310] succeeded in 10.01368699999989s: 'おわったよ'
+[2022-11-23 08:12:35,169: INFO/MainProcess] Task tasks.calc[22aa7c13-7a6d-4179-b95c-649b7ae6e8f6] received
+[2022-11-23 08:12:35,171: INFO/ForkPoolWorker-1] Task tasks.calc[22aa7c13-7a6d-4179-b95c-649b7ae6e8f6] succeeded in 0.0009832000000642438s: 300
+[2022-11-23 08:16:15,166: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,167: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,167: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,168: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,168: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,168: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,168: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:16:15,168: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 08:16:15,215: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 08:16:15,225: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 08:16:16,252: INFO/MainProcess] mingle: all alone
+[2022-11-23 08:16:16,266: INFO/MainProcess] celery@6b77e4b8c9d8 ready.
+[2022-11-23 08:16:20,143: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 08:16:39,078: INFO/MainProcess] Task tasks.run[3f149853-97ae-4e05-8219-343535a7e6bb] received
+[2022-11-23 08:16:49,086: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-23 08:16:49,086: WARNING/ForkPoolWorker-1] 
+
+[2022-11-23 08:16:49,090: INFO/ForkPoolWorker-1] Task tasks.run[3f149853-97ae-4e05-8219-343535a7e6bb] succeeded in 10.009000300000025s: 'おわったよ'
+[2022-11-23 08:16:49,092: INFO/MainProcess] Task tasks.calc[2b725cd2-c7df-4f5b-b4aa-7ae500bb1805] received
+[2022-11-23 08:16:49,095: INFO/ForkPoolWorker-1] Task tasks.calc[2b725cd2-c7df-4f5b-b4aa-7ae500bb1805] succeeded in 0.0011336000000028434s: 300
+[2022-11-23 08:39:47,013: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,014: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,014: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,015: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,015: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,015: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,015: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 08:39:47,015: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 08:39:47,057: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 08:39:47,068: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 08:39:48,095: INFO/MainProcess] mingle: all alone
+[2022-11-23 08:39:48,110: INFO/MainProcess] celery@e671b15687f1 ready.
+[2022-11-23 08:39:51,967: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 08:41:29,661: INFO/MainProcess] Task tasks.run[0a741ac8-b55a-46ff-8dc5-1f65eee1e7e5] received
+[2022-11-23 08:41:39,673: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-23 08:41:39,674: WARNING/ForkPoolWorker-1] 
+
+[2022-11-23 08:41:39,677: INFO/ForkPoolWorker-1] Task tasks.run[0a741ac8-b55a-46ff-8dc5-1f65eee1e7e5] succeeded in 10.014190899999903s: 'おわったよ'
+[2022-11-23 08:41:39,680: INFO/MainProcess] Task tasks.calc[91a4c43b-f2db-4564-b38f-4fef11b96e52] received
+[2022-11-23 08:41:39,682: INFO/ForkPoolWorker-1] Task tasks.calc[91a4c43b-f2db-4564-b38f-4fef11b96e52] succeeded in 0.000965600000199629s: 300
+[2022-11-23 10:13:11,666: ERROR/MainProcess] Received unregistered task of type 'remote_add'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[4, 4], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (81b)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'remote_add'
+[2022-11-23 10:13:15,749: ERROR/MainProcess] Received unregistered task of type 'remote_add'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[4, 4], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (81b)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'remote_add'
+[2022-11-23 10:13:49,474: ERROR/MainProcess] Received unregistered task of type 'remote_add'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[4, 4], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (81b)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'remote_add'
+[2022-11-23 10:17:45,879: ERROR/MainProcess] Received unregistered task of type 'add'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[4, 4], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (81b)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'add'
+[2022-11-23 10:21:01,462: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,463: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,463: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,464: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,464: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,464: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,464: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:21:01,464: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 10:21:01,546: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 10:21:01,555: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 10:21:02,580: INFO/MainProcess] mingle: all alone
+[2022-11-23 10:21:02,595: INFO/MainProcess] celery@47d1441a57a2 ready.
+[2022-11-23 10:21:06,412: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 10:21:12,682: INFO/MainProcess] Task add[c47adc7f-79da-4982-85f7-179482970d99] received
+[2022-11-23 10:21:12,687: INFO/ForkPoolWorker-1] Task add[c47adc7f-79da-4982-85f7-179482970d99] succeeded in 0.0031207000001813867s: 8
+[2022-11-23 10:21:19,193: INFO/MainProcess] Task add[5c12e91b-647c-4d44-8fe1-76dbde17da77] received
+[2022-11-23 10:21:19,195: INFO/ForkPoolWorker-1] Task add[5c12e91b-647c-4d44-8fe1-76dbde17da77] succeeded in 0.001190800000586023s: 8
+[2022-11-23 10:21:20,866: INFO/MainProcess] Task add[49734400-7e7b-4d9d-bbb1-cbed0ae29635] received
+[2022-11-23 10:21:20,869: INFO/ForkPoolWorker-1] Task add[49734400-7e7b-4d9d-bbb1-cbed0ae29635] succeeded in 0.0010485999991942663s: 8
+[2022-11-23 10:21:22,625: INFO/MainProcess] Task add[bd7dace4-7f50-4fd5-8e73-e3d6ea3fe623] received
+[2022-11-23 10:21:22,627: INFO/ForkPoolWorker-1] Task add[bd7dace4-7f50-4fd5-8e73-e3d6ea3fe623] succeeded in 0.0009724000001369859s: 8
+[2022-11-23 10:21:47,028: INFO/MainProcess] Task add[3442306d-f9bb-4b55-be65-3f092ff908d5] received
+[2022-11-23 10:21:47,030: INFO/ForkPoolWorker-1] Task add[3442306d-f9bb-4b55-be65-3f092ff908d5] succeeded in 0.0012378999999782536s: 8
+[2022-11-23 10:21:49,498: INFO/MainProcess] Task add[e4d38182-0c9b-4b22-babf-4bdac6694c83] received
+[2022-11-23 10:21:49,500: INFO/ForkPoolWorker-1] Task add[e4d38182-0c9b-4b22-babf-4bdac6694c83] succeeded in 0.000957899999775691s: 8
+[2022-11-23 10:32:53,961: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,962: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,962: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,962: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,962: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,963: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,963: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:32:53,963: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 10:32:54,048: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 10:32:54,058: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 10:32:55,084: INFO/MainProcess] mingle: all alone
+[2022-11-23 10:32:55,100: INFO/MainProcess] celery@4a13d91c7606 ready.
+[2022-11-23 10:36:13,169: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/redis/connection.py", line 185, in _read_from_socket
+    raise socket.error(SERVER_CLOSED_CONNECTION_ERROR)
+OSError: Connection closed by server.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 326, in start
+    blueprint.start(self)
+  File "/usr/local/lib/python3.6/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py", line 618, in start
+    c.loop(*c.loop_args())
+  File "/usr/local/lib/python3.6/site-packages/celery/worker/loops.py", line 81, in asynloop
+    next(loop)
+  File "/usr/local/lib/python3.6/site-packages/kombu/asynchronous/hub.py", line 361, in create_loop
+    cb(*cbargs)
+  File "/usr/local/lib/python3.6/site-packages/kombu/transport/redis.py", line 1128, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/usr/local/lib/python3.6/site-packages/kombu/transport/redis.py", line 398, in on_readable
+    chan.handlers[type]()
+  File "/usr/local/lib/python3.6/site-packages/kombu/transport/redis.py", line 733, in _receive
+    ret.append(self._receive_one(c))
+  File "/usr/local/lib/python3.6/site-packages/kombu/transport/redis.py", line 743, in _receive_one
+    response = c.parse_response()
+  File "/usr/local/lib/python3.6/site-packages/redis/client.py", line 3036, in parse_response
+    return self._execute(connection, connection.read_response)
+  File "/usr/local/lib/python3.6/site-packages/redis/client.py", line 3013, in _execute
+    return command(*args)
+  File "/usr/local/lib/python3.6/site-packages/redis/connection.py", line 637, in read_response
+    response = self._parser.read_response()
+  File "/usr/local/lib/python3.6/site-packages/redis/connection.py", line 290, in read_response
+    response = self._buffer.readline()
+  File "/usr/local/lib/python3.6/site-packages/redis/connection.py", line 224, in readline
+    self._read_from_socket()
+  File "/usr/local/lib/python3.6/site-packages/redis/connection.py", line 199, in _read_from_socket
+    (e.args,))
+redis.exceptions.ConnectionError: Error while reading from socket: ('Connection closed by server.',)
+[2022-11-23 10:36:13,173: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/worker/consumer/consumer.py:361: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered back to the queue.
+You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss setting.
+In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2022-11-23 10:36:13,184: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error 111 connecting to redis:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+[2022-11-23 10:36:15,193: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 4.00 seconds... (2/100)
+
+[2022-11-23 10:36:19,205: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 6.00 seconds... (3/100)
+
+[2022-11-23 10:36:25,219: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 8.00 seconds... (4/100)
+
+[2022-11-23 10:36:33,236: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 10.00 seconds... (5/100)
+
+[2022-11-23 10:36:43,254: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 12.00 seconds... (6/100)
+
+[2022-11-23 10:36:55,276: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 14.00 seconds... (7/100)
+
+[2022-11-23 10:37:09,299: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 16.00 seconds... (8/100)
+
+[2022-11-23 10:37:25,324: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 18.00 seconds... (9/100)
+
+[2022-11-23 10:37:43,352: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 20.00 seconds... (10/100)
+
+[2022-11-23 10:38:03,380: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 22.00 seconds... (11/100)
+
+[2022-11-23 10:38:25,412: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 24.00 seconds... (12/100)
+
+[2022-11-23 10:38:49,443: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error -2 connecting to redis:6379. Name does not resolve..
+Trying again in 26.00 seconds... (13/100)
+
+[2022-11-23 10:39:54,170: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,171: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,171: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,171: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,171: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,172: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,172: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 10:39:54,172: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 10:39:54,246: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 10:39:54,257: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 10:39:55,283: INFO/MainProcess] mingle: all alone
+[2022-11-23 10:39:55,299: INFO/MainProcess] celery@c5095b7433d3 ready.
+[2022-11-23 10:39:59,116: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 10:40:57,403: INFO/MainProcess] Task tasks.run[a5727425-cbd0-4984-90fc-229971975b6b] received
+[2022-11-23 10:41:07,414: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-23 10:41:07,414: WARNING/ForkPoolWorker-1] 
+
+[2022-11-23 10:41:07,417: INFO/ForkPoolWorker-1] Task tasks.run[a5727425-cbd0-4984-90fc-229971975b6b] succeeded in 10.012131199999203s: 'おわったよ'
+[2022-11-23 10:41:07,420: INFO/MainProcess] Task tasks.calc[1c3d2258-8792-4e95-a753-cd6789ceb3a6] received
+[2022-11-23 10:41:07,423: INFO/ForkPoolWorker-1] Task tasks.calc[1c3d2258-8792-4e95-a753-cd6789ceb3a6] succeeded in 0.000891800000317744s: 300
+[2022-11-23 11:07:24,899: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,900: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:07:24,901: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 11:07:24,977: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 11:07:24,989: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 11:07:26,012: INFO/MainProcess] mingle: all alone
+[2022-11-23 11:07:26,025: INFO/MainProcess] celery@43205f37d3ad ready.
+[2022-11-23 11:07:29,859: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 11:23:06,836: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,837: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,838: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,838: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,838: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,838: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,838: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:23:06,839: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 11:23:06,913: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 11:23:06,925: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 11:23:07,949: INFO/MainProcess] mingle: all alone
+[2022-11-23 11:23:07,963: INFO/MainProcess] celery@ad3c3c72719f ready.
+[2022-11-23 11:23:11,375: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 11:23:54,108: INFO/MainProcess] Task tasks.run[88741a36-1d44-487d-967f-b00abc0eb353] received
+[2022-11-23 11:24:04,120: WARNING/ForkPoolWorker-1] 処理　おわた
+[2022-11-23 11:24:04,120: WARNING/ForkPoolWorker-1] 
+
+[2022-11-23 11:24:04,124: INFO/ForkPoolWorker-1] Task tasks.run[88741a36-1d44-487d-967f-b00abc0eb353] succeeded in 10.014064599999983s: 'おわったよ'
+[2022-11-23 11:24:04,127: INFO/MainProcess] Task tasks.calc[ab72952a-008f-487e-bace-5b96b7629515] received
+[2022-11-23 11:24:04,130: INFO/ForkPoolWorker-1] Task tasks.calc[ab72952a-008f-487e-bace-5b96b7629515] succeeded in 0.0011407000001781853s: 300
+[2022-11-23 11:59:58,517: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,518: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,519: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,519: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,519: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,519: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,519: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 11:59:58,520: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 11:59:58,594: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 11:59:58,604: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 11:59:59,630: INFO/MainProcess] mingle: all alone
+[2022-11-23 11:59:59,644: INFO/MainProcess] celery@4350f71298d1 ready.
+[2022-11-23 12:00:03,154: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 12:20:37,747: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,748: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,748: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,749: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,749: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,749: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,749: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:20:37,749: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 12:20:37,850: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 12:20:37,863: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 12:20:38,888: INFO/MainProcess] mingle: all alone
+[2022-11-23 12:20:38,903: INFO/MainProcess] celery@b469a3982a7c ready.
+[2022-11-23 12:20:42,760: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 12:36:58,728: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,729: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,729: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,730: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'BROKER_URL' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the broker_url instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,730: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,730: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERYD_CONCURRENCY' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the worker_concurrency instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,730: WARNING/MainProcess] /usr/local/lib/python3.6/site-packages/celery/app/utils.py:206: CDeprecationWarning: 
+    The 'CELERY_IMPORTS' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the imports instead
+
+  alternative=f'Use the {_TO_NEW_KEY[setting]} instead')
+
+[2022-11-23 12:36:58,730: WARNING/MainProcess] Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+[2022-11-23 12:36:58,818: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-11-23 12:36:58,827: INFO/MainProcess] mingle: searching for neighbors
+[2022-11-23 12:36:59,852: INFO/MainProcess] mingle: all alone
+[2022-11-23 12:36:59,867: INFO/MainProcess] celery@816d7f06373a ready.
+[2022-11-23 12:37:03,478: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-11-23 12:37:11,516: INFO/MainProcess] Task add[bd0e3518-445d-4ba9-a02b-184721bdd4f0] received
+[2022-11-23 12:37:11,522: INFO/ForkPoolWorker-1] Task add[bd0e3518-445d-4ba9-a02b-184721bdd4f0] succeeded in 0.003114199998890399s: 8
+[2022-11-23 12:37:15,965: INFO/MainProcess] Task add[cf8b3af0-6cd2-4211-a34b-32d76f589873] received
+[2022-11-23 12:37:15,967: INFO/ForkPoolWorker-1] Task add[cf8b3af0-6cd2-4211-a34b-32d76f589873] succeeded in 0.0010258999991492601s: 8
+[2022-11-23 12:37:18,618: INFO/MainProcess] Task add[2d864acf-d0bd-4c11-81e5-d23a02e993fc] received
+[2022-11-23 12:37:18,620: INFO/ForkPoolWorker-1] Task add[2d864acf-d0bd-4c11-81e5-d23a02e993fc] succeeded in 0.0010218999996141065s: 8

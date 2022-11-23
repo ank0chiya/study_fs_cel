@@ -1,0 +1,52 @@
+version: '3.7'
+services:
+  web:
+    build:  
+      context: ./docker
+      dockerfile: DockerfileFastapi
+    tty: true
+    container_name: web
+    volumes:
+      - ./:/usr/src/app
+    env_file:
+      - .env 
+    ports:
+      - "8000:8000"
+    command: uvicorn app.remote_app:app --reload --host 0.0.0.0 --port 8000
+    depends_on:
+      - redis
+
+  celery:
+      build:  
+        context: ./docker
+        dockerfile: DockerfileCelery
+      tty: true
+      container_name: celery
+      volumes:
+        - ./:/usr/src/app
+        - ./logs:/usr/src/app/logs
+      working_dir: /usr/src/app/celery
+      command: celery -A tasks worker --loglevel=info  --logfile=../logs/celery.log
+      env_file:
+        - .env 
+      depends_on:
+        - python
+        - redis
+
+  redis:
+      image: redis:5.0.3-alpine
+      container_name: redis
+      tty: true
+
+  monitor:
+      build:  
+        context: ./docker
+        dockerfile: DockerfileCelery
+      tty: true
+      container_name: monitor
+      ports:
+        - 5555:5555
+      command: celery --broker=redis://redis:6379/0 flower --port=5555
+      depends_on:
+        - python
+        - redis
